@@ -1,0 +1,58 @@
+00:59:36.373 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+00:59:36.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+00:59:37.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+00:59:37.358 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:59:38.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+00:59:38.947 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+00:59:41.222 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+00:59:41.223 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+00:59:41.665 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+00:59:42.004 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+00:59:45.315 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+00:59:45.377 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+00:59:48.981 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:59:54.193 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+00:59:54.207 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:00:08.566 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:00:08.569 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:00:22.252 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:00:22.257 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:00:35.890 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:00:35.890 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:00:40.855 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:00:40.865 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:00:54.573 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:03:50.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Master_Testng.xml
+
+01:03:53.239 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:03:53.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:03:54.190 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+01:03:54.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:03:55.880 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+01:03:55.934 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+01:03:58.238 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:03:58.239 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+01:03:58.778 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+01:03:59.109 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+01:04:03.284 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+01:04:17.637 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:04:22.661 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:04:22.682 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:04:37.184 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:04:37.189 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:04:50.983 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:04:51.002 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:05:05.863 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:05:05.869 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:05:10.841 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:05:10.853 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:05:24.790 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:09:11.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\test-output\testng-failed.xml
+
+01:09:13.931 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:09:13.958 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+01:09:14.413 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+01:09:14.762 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+01:09:18.136 [main] INFO  testCases.TC002_LoginTest - Below validating expected message

@@ -1,0 +1,61 @@
+23:09:31.609 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:09:31.642 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:09:43.654 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:09:43.661 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:09:47.022 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:15:33.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Master_Testng.xml
+
+23:15:39.685 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:15:42.055 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:15:42.065 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:15:53.980 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:16:05.854 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:16:05.861 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:16:17.041 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:16:17.043 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:16:19.029 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:16:19.036 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:27:44.720 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Master_Testng.xml
+
+23:27:48.948 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:28:00.612 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:28:12.368 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:28:27.324 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:28:27.338 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:28:42.132 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:28:42.144 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:28:53.860 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:30:12.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Master_Testng.xml
+
+23:30:16.800 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:30:22.057 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:30:22.081 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:30:34.570 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:30:49.676 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:30:49.676 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:31:04.281 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:31:04.289 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+23:31:10.183 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+23:31:10.183 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:06:59.212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Master_Testng.xml
+
+00:07:01.803 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+00:07:02.274 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+00:07:02.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+00:07:02.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+00:07:04.195 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+00:07:04.249 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest *****
+00:07:06.116 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+00:07:06.117 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+00:07:06.615 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+00:07:06.925 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+00:07:10.943 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+00:07:11.002 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+00:07:14.827 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:07:19.520 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+00:07:19.524 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:07:33.274 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****

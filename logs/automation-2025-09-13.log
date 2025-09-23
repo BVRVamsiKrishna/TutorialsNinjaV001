@@ -1,0 +1,55 @@
+01:18:23.526 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest *****
+01:18:25.822 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:18:25.837 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+01:18:26.374 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+01:18:26.894 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+01:18:30.269 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+01:18:30.320 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+01:18:34.004 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:18:39.265 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:18:39.265 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:18:53.521 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:18:53.529 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:19:08.058 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:19:08.058 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:19:22.377 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:19:22.392 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:19:27.287 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:19:27.298 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+01:19:41.682 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:33:54.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\CrossBrowserTesting_Testng2.xml
+
+01:33:58.632 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:33:59.040 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:33:59.557 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+01:33:59.561 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:34:01.847 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:34:02.088 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:34:02.725 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+01:34:02.828 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest *****
+01:34:02.964 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+01:34:02.966 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:39:03.259 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\CrossBrowserTesting_Testng2.xml
+
+01:39:07.898 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:39:07.898 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:39:08.243 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:39:08.340 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:41:01.312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\CrossBrowserTesting_Testng2.xml
+
+01:41:12.988 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:41:12.988 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:41:12.988 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:41:13.143 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:41:13.209 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:41:13.276 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:41:16.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+01:41:17.000 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:48:45.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\CrossBrowserTesting_Testng2.xml
+
+01:48:49.747 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:48:49.747 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****

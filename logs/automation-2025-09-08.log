@@ -1,0 +1,62 @@
+00:07:33.274 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:07:47.022 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+00:07:47.024 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:08:00.726 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+00:08:00.726 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:08:05.536 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+00:08:05.546 [main] INFO  testCases.TC003_LoginDDT - *****Starting TC003_LoginDDT *****
+00:08:19.856 [main] INFO  testCases.TC003_LoginDDT - *****Finished TC003_LoginDDT *****
+01:36:45.140 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
+01:36:48.414 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:36:48.441 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+01:36:48.901 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+01:36:49.198 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+01:36:52.585 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+01:36:52.628 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+01:37:38.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
+01:37:40.940 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+01:37:41.409 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+01:37:41.796 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+01:37:41.800 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+01:37:43.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+01:37:43.647 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest *****
+01:37:45.474 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+01:37:45.475 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+01:37:45.970 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+01:37:46.292 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+01:37:50.315 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+01:37:50.348 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+15:49:13.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
+15:49:24.617 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:49:24.661 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+15:49:24.881 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+15:49:25.577 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+15:49:31.054 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+15:49:31.170 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+16:03:38.814 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
+16:04:00.749 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:04:00.978 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount Link 
+16:04:06.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link 
+16:04:06.567 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:04:09.704 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:04:09.771 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest *****
+16:04:19.580 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:04:19.580 [main] INFO  testCases.TC002_LoginTest - Clicked on Myaccount Link 
+16:04:19.735 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+16:04:20.349 [main] INFO  testCases.TC002_LoginTest - providing the login email and password in Login Page
+16:04:25.298 [main] INFO  testCases.TC002_LoginTest - Below validating expected message
+16:04:25.383 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest *****
+16:06:01.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
+16:07:40.291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsi\Selenium_Workspace\TutorialsNinjaV001\Grouping_Testng.xml
+
